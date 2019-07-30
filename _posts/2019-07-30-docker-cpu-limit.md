@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Docker cpu limit"
+title: "Small story about docker and cpu limit"
 date: 2019-07-30
 ---
-
-# Small story about docker and cpu limit
 
 I was doing some benchmark with our new solution. Our client gave us some VM so we could check the real performance with their infrastructure.
  
